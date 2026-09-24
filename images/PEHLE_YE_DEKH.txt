@@ -1,0 +1,7 @@
+images/
+├── notes/    1.jpg … 12.jpg                 (one photo per love note, in order, any orientation)
+├── reel/     1.jpg … 10.jpg                 (film-strip frames, in scroll order)
+└── burst/    main.jpg + 1.jpg … 12.jpg      (center photo + the 12 scattered memories)
+
+.jpg ya .png ya .webp — sab chalega. Bas naam sahi hona chahiye.
+(Any extension works: 1.jpg, 1.png or 1.webp — just match the number.)
